@@ -17,7 +17,10 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Payment is proceed successfully.png      Payment is sucessful with invalid CardHolderName.png      no error message for invalid input.png     
+Attachments: 	 ![Payment is proceed successfully](https://github.com/user-attachments/assets/f6128da3-cb73-4f6e-b2f7-e1f4581384ad)
+      ![Payment is sucessful with invalid CardHolderName](https://github.com/user-attachments/assets/6577ab2c-e243-4663-a6e9-8c8ab63b51a7)
+     ![no error message for invalid input](https://github.com/user-attachments/assets/c9afde92-5ac5-4877-9f99-5de8aaf21183)
+     
 Issue links: 	Blocks
 blocks 	DWQTP-12 
 Test Case 9: Place an Order 	To Do 
@@ -58,7 +61,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Incorect address.png      Proceed to payment.png     
+Attachments: 	 ![Incorect address](https://github.com/user-attachments/assets/e3450ca0-f402-46e4-a04d-990507644a19)
+      ![Proceed to payment](https://github.com/user-attachments/assets/4a5818b8-7332-4ab9-8892-97dd81101525)
+    
 Issue links: 	Blocks
 blocks 	DWQTP-12 
 Test Case 9: Place an Order 	To Do 
@@ -98,7 +103,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Screenshot_5.png     
+Attachments: 	 ![Screenshot_5](https://github.com/user-attachments/assets/fd915a44-f8d3-456d-812d-b09f18d6cfb0)
+    
 Issue links: 	Blocks
 blocks 	DWQTP-4 
 Test Case 1: Register a New User 	To Do 
@@ -148,7 +154,8 @@ Environment: 	•	Browser: Google Chrome 128.0.6613.138
 •	Application Version: v5.0
 •	Network Conditions (Сетевые условия): Wi-Fi, 50 Mbps
 
-Attachments: 	 Screenshot_7.png     
+Attachments: 	 ![Screenshot_7](https://github.com/user-attachments/assets/becb1480-b1e2-4472-ba54-bf05be9754b9)
+    
 Issue links: 	Blocks
 blocks 	DWQTP-6 
 Test Case 3: Password Recovery 	To Do 
