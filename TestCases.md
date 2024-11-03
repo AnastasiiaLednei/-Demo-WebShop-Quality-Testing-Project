@@ -17,7 +17,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Screenshot_5.png     
+Attachments: 	![Screenshot_5](https://github.com/user-attachments/assets/c9d3afdf-5334-4c41-b04f-6e363577becf)
+    
 Issue links: 	Blocks
 is blocked by 	DWQTP-1 
 Registration form does not show error... 	To Do 
@@ -49,7 +50,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Login with Valid Credentials.png      Redirection to the home page..png     
+Attachments: 	 ![Login with Valid Credentials](https://github.com/user-attachments/assets/b32881b9-c426-4ac7-b3c7-45fe2c85877f)
+      ![Redirection to the home page](https://github.com/user-attachments/assets/eff18f20-35d8-4bc6-99b1-0640878ce6f6)
+    
 
  Description  	 
 Steps: Navigate to the login page, enter valid credentials, and submit. 
@@ -76,7 +79,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Set New Password button.png     
+Attachments: 	 ![Set New Password button](https://github.com/user-attachments/assets/69fb4cdd-d7bf-4ba8-ae55-ab22c6c8c4b1)
+     
 Issue links: 	Blocks
 is blocked by 	DWQTP-2 
 "Set New Password" button does not tr... 	To Do 
@@ -110,7 +114,11 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Search for a product.png      Search results.png      Search results1.png      Search results2.png     
+Attachments: 	 ![Search for a product](https://github.com/user-attachments/assets/5471a155-8d50-4b0a-bacc-6c13e96d9756)
+     ![Search results](https://github.com/user-attachments/assets/67331c6b-fda4-465a-8900-df78918223ca)
+   ![Search results1](https://github.com/user-attachments/assets/55e98fcf-7c18-4451-9ab8-067bdbbe4694)
+     ![Search results2](https://github.com/user-attachments/assets/95742a16-2fa1-49a9-b2fb-7b6948f1c5b2)
+   
 
  Description  	 
 Steps: Enter a product name or keyword into the search bar and submit. 
@@ -139,7 +147,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Filter.png      filterByCategory.png     
+Attachments: 	 ![Filter](https://github.com/user-attachments/assets/192cf8da-e6be-49c8-9fdb-780804ef4c9d)
+    ![filterByCategory](https://github.com/user-attachments/assets/b3afe665-3138-4f03-ac7e-487ed75e0efc)
+    
 
  Description  	 
 Steps: Use filters like category, price range, and brand. 
@@ -167,7 +177,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Adding product to cart.png      Items in cart.png     
+Attachments: 	 ![Adding product to cart](https://github.com/user-attachments/assets/b20b1aeb-298f-447d-bdc3-ca5f727684c0)
+      ![Items in cart](https://github.com/user-attachments/assets/9c3459e3-5354-4b2d-9609-bbb01bd8879d)
 
  Description  	 
 Steps: Select a product, specify the quantity, and click “Add to Cart.” 
@@ -195,7 +206,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Update Product Quantity.png     
+Attachments: 	 ![Update Product Quantity](https://github.com/user-attachments/assets/bb1f10e5-87e5-4af9-8530-8c654d85cac4)
+    
 
  Description  	 
 Steps: Navigate to the cart, change the quantity of an item, and update the cart. 
@@ -222,7 +234,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Products are removed.png     
+Attachments: 	![Products are removed](https://github.com/user-attachments/assets/89fc12fd-d75f-4f0f-9deb-b2a5a9afb0dd)
+   
 
  Description  	 
 Steps: Navigate to the cart, remove an item, and update the cart. 
@@ -249,7 +262,11 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 CardHolderNameField.png      Incorect address.png      Proceed to checkout.png      no error message for invalid input.png     
+Attachments: 	![CardHolderNameField](https://github.com/user-attachments/assets/62eced1f-9a40-449b-89b3-ad632a0e9fa8)
+   ![Incorect address](https://github.com/user-attachments/assets/7d4f8208-5f1a-49e1-863b-6da5ff38ae6b)
+   ![Proceed to checkout](https://github.com/user-attachments/assets/015b06b8-e44c-4b86-ae9e-354bc892e0df)
+      ![no error message for invalid input](https://github.com/user-attachments/assets/faaf7709-e817-4c98-a9f9-5420e278ea66)
+   
 Issue links: 	Blocks
 is blocked by 	DWQTP-13 
 System allows proceeding to the payme... 	To Do 
@@ -285,7 +302,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 iPad Mini.png      iPhone XR.png     
+Attachments: 	 ![iPad Mini](https://github.com/user-attachments/assets/6c2ab2cc-afed-4a8f-a80b-89e03b01ac95)
+  ![iPhone XR](https://github.com/user-attachments/assets/e747d369-d3af-4d97-bcd6-4888d453163e)
+
 
  Description  	 
 Objective: Ensure the website displays correctly and is functional across different screen sizes and resolutions by using browser extension tools.
@@ -331,7 +350,10 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 ContactPage Speed.png      ProductCartSpeed.png      homepageSpeed.png     
+Attachments: 	 ![ContactPage Speed](https://github.com/user-attachments/assets/298b9139-8ffb-4b64-8a1b-43f552cba4bb)
+     ![ProductCartSpeed](https://github.com/user-attachments/assets/e3a445f8-d758-4e6a-aaa8-7f7705b00025)
+    ![homepageSpeed](https://github.com/user-attachments/assets/8b6a2632-9361-478f-9905-ee89fb5b215d)
+    
 
  Description  	 
 Objective: To measure the loading time of key pages of the site and ensure that they load within the acceptable time.
@@ -386,7 +408,12 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 TestCaseN3.png      TestCaseN4.png      TestCaseN6.png      TestCaseN7.png      TestCaseN8.png     
+Attachments: 	 ![TestCaseN3](https://github.com/user-attachments/assets/f38dffde-3fac-491c-a47a-1fe10f10b06e)
+     ![TestCaseN4](https://github.com/user-attachments/assets/bd60d566-e1ee-445e-9a9e-c0028f084469)
+   ![TestCaseN6](https://github.com/user-attachments/assets/e6e43bff-edba-47e6-b66f-780257b1d097)
+      ![TestCaseN7](https://github.com/user-attachments/assets/55158679-d09e-4454-bd1e-5299abbe1683)
+     ![Uploading TestCaseN8.png…]()
+   
 
  Description  	 
 Objective: Ensure that personal data is handled and stored securely according to the privacy policy of Practice Software Testing.
@@ -476,7 +503,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 TestCaseN13.png     
+Attachments: 	 ![TestCaseN13](https://github.com/user-attachments/assets/2da6d46d-ff10-4aa7-a9a1-71a42b2d3f56)
+    
 
  Description  	 
 Verify authentication security with invalid credentials.
